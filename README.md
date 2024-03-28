@@ -7,7 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KaranBhajane](https://github.com/KaranBhajane)
 
-- 📄 Know about my experiences ["C:\Users\bhaja\Downloads\KARAN BHAJANE.pdf"]("C:\Users\bhaja\Downloads\KARAN BHAJANE.pdf")
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
